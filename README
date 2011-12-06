@@ -1,0 +1,23 @@
+Todo-List Application
+
+Initially created for Tutorial purpose.
+
+Demo:
+    http://fairwayweb.com/todo/
+
+Source:
+    https://github.com/eimg/todo-list
+
+Tutorial Articles:
+	1. http://fairwayweb.com/shortcut-to-jquery
+	2. http://fairwayweb.com/jquery-creating-elegant-todo-list
+	3. http://fairwayweb.com/persistent-todo-list-with-ajax
+
+License:
+    Dual licensed under the MIT or GPL Version 2 licenses.
+    http://jquery.org/license
+    Copyright 2011, Ei Maung (Fairway Web)
+    http://fairwayweb.com/
+
+History:
+    version 0.1, Dec 6th, 2011
